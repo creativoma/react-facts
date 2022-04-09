@@ -32,7 +32,7 @@
 
 ## Screenshot
 
-![screenshot](./images/screenshot.png)
+![screenshot](./src/images/screenshot.png)
 
 ## Links
 
