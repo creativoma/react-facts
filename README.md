@@ -37,7 +37,7 @@
 ## Links
 
 - Repo: [https://github.com/creativoma/react-facts](https://github.com/creativoma/react-facts)
-- Deploy: [https://creativoma.github.io/react-facts](https://creativoma.github.io/react-facts)
+- Deploy: [https://react-facts-bice.vercel.app](https://react-facts-bice.vercel.app)
 
 ## Built with
 
